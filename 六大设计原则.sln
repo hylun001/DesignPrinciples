@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "单一职责原则", "单一职责原则\单一职责原则.csproj", "{F8F15A4A-F848-4184-B603-C520116CC73F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "开闭原则", "开闭原则\开闭原则.csproj", "{53219471-5FCF-429F-B833-65BE5048D546}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "迪米特法则", "迪米特法则\迪米特法则.csproj", "{DCCABA1B-5AB5-4846-A7F7-8310AA05D823}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "接口隔离原则", "接口隔离原则\接口隔离原则.csproj", "{4C342616-5720-4A46-8DC4-80CA3667791E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "里氏替换原则", "里氏替换原则\里氏替换原则.csproj", "{E95CA23A-0972-4656-ADD1-637A76FCC5A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "依赖倒置原则", "依赖倒置原则\依赖倒置原则.csproj", "{61AB56D3-80F9-4C72-B007-5699DB08952E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F15A4A-F848-4184-B603-C520116CC73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F15A4A-F848-4184-B603-C520116CC73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F15A4A-F848-4184-B603-C520116CC73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F15A4A-F848-4184-B603-C520116CC73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53219471-5FCF-429F-B833-65BE5048D546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53219471-5FCF-429F-B833-65BE5048D546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53219471-5FCF-429F-B833-65BE5048D546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53219471-5FCF-429F-B833-65BE5048D546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCABA1B-5AB5-4846-A7F7-8310AA05D823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCABA1B-5AB5-4846-A7F7-8310AA05D823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCABA1B-5AB5-4846-A7F7-8310AA05D823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCABA1B-5AB5-4846-A7F7-8310AA05D823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C342616-5720-4A46-8DC4-80CA3667791E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C342616-5720-4A46-8DC4-80CA3667791E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C342616-5720-4A46-8DC4-80CA3667791E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C342616-5720-4A46-8DC4-80CA3667791E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95CA23A-0972-4656-ADD1-637A76FCC5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95CA23A-0972-4656-ADD1-637A76FCC5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95CA23A-0972-4656-ADD1-637A76FCC5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95CA23A-0972-4656-ADD1-637A76FCC5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AB56D3-80F9-4C72-B007-5699DB08952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AB56D3-80F9-4C72-B007-5699DB08952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AB56D3-80F9-4C72-B007-5699DB08952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AB56D3-80F9-4C72-B007-5699DB08952E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4707CD3F-6543-4CCE-8C99-17C35EE79751}
+	EndGlobalSection
+EndGlobal
